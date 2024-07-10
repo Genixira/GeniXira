@@ -3,11 +3,11 @@ Data Analyst & Ai Machine Learning Engineer 🚀🔍<br>
 ## ❄ About Me<br>
 Driven data analyst passionate about becoming a data scientist 💡
 ## Education & Certifications
-🎉 Google Data Analytics Certification<br>
-🏆 AlexTheAnalyst Bootcamp<br>
-🔓 Data Science with Python<br>
-👨‍🎓 Cobasic Python Certification<br>
-🔓Khris Naik: Machine Learning,Statistics,NLP,Feature Engineering<br>
+🎉 Courser:Google Data Analytics Certification<br>
+🏆 Youtube:AlexTheAnalyst Bootcamp<br>
+🔓 FreeCodeCamp:Data Science with Python<br>
+👨‍🎓 Cobasic:Python Certification<br>
+🔓Khris Naik:Machine Learning,Statistics,NLP,Feature Engineering<br>
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -43,6 +43,7 @@ Driven data analyst passionate about becoming a data scientist 💡
 Deep Learning,Feature Engineering and NLP
 # 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeniXira&show_icons=true&theme=onedark)
+![](https://github-readme-stats.vercel.app/api?username=GeniXira&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=GeniXira&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 Feel free to explore my repositories and let's connect on Github!
