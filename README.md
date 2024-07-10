@@ -1,7 +1,6 @@
 ## Hi I'm Richie
-
 Data Analyst & Aspiring Data Scientist 🚀🔍<br>
-About Me<br>
+## About Me<br>
 Driven data analyst passionate about becoming a data scientist 💡
 ## Education & Certifications
 🎉 Google Data Analytics Certification<br>
@@ -13,6 +12,10 @@ Driven data analyst passionate about becoming a data scientist 💡
 💻 MySQL, PostgreSQL<br>
 📊 Excel, Google Sheets, Power BI, Tableau<br>
 🔍 pandas, numpy, matplotlib, computer vision<br>
+## Soft Skills
+📊 Data Analysis, Data Visualization, Data Storytelling, Data Structures<br>
+📊 Critical Thinking, Detail Oriented<br>
+📊 Communication Skills<br>
 ## Currently Learning
 📚 Statistics, Machine Learning,<br>
 Deep Learning,Feature Engineering and NLP
