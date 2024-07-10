@@ -4,10 +4,10 @@ Data Analyst & Ai Machine Learning Engineer 🚀🔍<br>
 Driven data analyst and passionate about becoming a data scientist 💡
 ## Education & Certifications
 🎉 Courser: Google Data Analytics Certification<br>
-🏆 Youtube: AlexTheAnalyst Bootcamp:Excel,Power Bi, Tableau, Mysql,Python,Web Scrapping,Aws & Panda<br>
-🔓 FreeCodeCamp: Data Science with Python: Python Fundamentals,Numpy,Matplolib,Panda,sciki-Learn<br>
-👨‍🎓 Cobasic: Python Certification:Python,Pandas,Computer Vision,FastApi,Ocr<br>
-🔓Khris Naik: Machine Learning,Statistics,NLP,Feature Engineering,MogoDb,Deep Learning<br>
+🏆 Youtube: AlexTheAnalyst Bootcamp [Excel,Power Bi, Tableau, Mysql,Python,Web Scrapping,Aws & Panda<br>]
+🔓 FreeCodeCamp: Data Science with Python [Python Fundamentals,Numpy,Matplolib,Panda,sciki-Learn<br>]
+👨‍🎓 Cobasic: Python Certification [Python,Pandas,Computer Vision,FastApi,Ocr<br>]
+🔓Khris Naik: [Machine Learning,Statistics,NLP,Feature Engineering,MogoDb,Deep Learning<br>]
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
