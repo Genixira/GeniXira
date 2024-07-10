@@ -20,6 +20,6 @@ Driven data analyst passionate about becoming a data scientist 💡
 ## Currently Learning
 📚 Statistics, Machine Learning,<br>
 Deep Learning,Feature Engineering and NLP
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeniXira&show_icons=true&theme=cobalt)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeniXira&show_icons=true&theme=radical)
 Feel free to explore my repositories and let's connect on Github!
