@@ -1,17 +1,16 @@
 ## Hi! I'm Richie
-![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)Data Analyst & Ai Machine Learning Engineer 🚀🔍<br>
+Data Analyst & Ai Machine Learning Engineer 🚀🔍<br>
 ## ❄ About Me<br>
 Driven data analyst passionate about becoming a data scientist 💡
 ## Education & Certifications
-🎉 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)Google Data Analytics Certification<br>
+🎉 Google Data Analytics Certification<br>
 🏆 AlexTheAnalyst Bootcamp<br>
-🔓 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green): Data Science with Python<br>
+🔓 Data Science with Python<br>
 👨‍🎓 Cobasic Python Certification<br>
 🔓Khris Naik: Machine Learning,Statistics,NLP,Feature Engineering<br>
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
@@ -35,6 +34,7 @@ Driven data analyst passionate about becoming a data scientist 💡
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+## Soft Skills
 📊 Data Analysis, Data Visualization, Data Storytelling, Data Structures<br>
 📊 Critical Thinking, Detail Oriented<br>
 📊 Communication Skills<br>
@@ -42,8 +42,8 @@ Driven data analyst passionate about becoming a data scientist 💡
 📚 Statistics, Machine Learning,<br>
 Deep Learning,Feature Engineering and NLP
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-profile-trophy.vercel.app/?username=xsol05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=GeniXira&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeniXira&show_icons=true&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=GeniXira&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 Feel free to explore my repositories and let's connect on Github!
