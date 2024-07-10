@@ -23,4 +23,4 @@ Deep Learning,Feature Engineering and NLP
 
 
 Feel free to explore my repositories,and let's connect on Github!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeniXira&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeniXira&show_icons=true&theme=dracula)
