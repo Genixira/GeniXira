@@ -8,8 +8,8 @@ Driven data analyst passionate about becoming a data scientist 💡
 🔓 Freecodecamp: Data Science with Python<br>
 👨‍🎓 Cobasic Python Certification<br>
 ## Technical Skills
-🤖 Python, R<br>
-💻 MySQL, PostgreSQL<br>
+🤖 Python,Web Scrapping, R<br>
+💻 MySQL, PostgreSQL, Aws<br>
 📊 Excel, Google Sheets, Power BI, Tableau<br>
 🔍 pandas, numpy, matplotlib, computer vision<br>
 ## Soft Skills
