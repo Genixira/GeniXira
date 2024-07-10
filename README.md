@@ -1,6 +1,6 @@
 ## Hi! I'm Richie
 Data Analyst & Ai Machine Learning Engineer 🚀🔍<br>
-## About Me<br>
+##❄ About Me<br>
 Driven data analyst passionate about becoming a data scientist 💡
 ## Education & Certifications
 🎉 Google Data Analytics Certification<br>
