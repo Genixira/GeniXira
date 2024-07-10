@@ -1,7 +1,7 @@
 ## Hi! I'm Richie
 Data Analyst & Ai Machine Learning Engineer 🚀🔍<br>
 ## ❄ About Me<br>
-Driven data analyst passionate about becoming a data scientist 💡
+Driven data analyst and passionate about becoming a data scientist 💡
 ## Education & Certifications
 🎉 Courser: Google Data Analytics Certification<br>
 🏆 Youtube: AlexTheAnalyst Bootcamp<br>
@@ -29,18 +29,19 @@ Driven data analyst passionate about becoming a data scientist 💡
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ## Soft Skills
-📊 Data Analysis, Data Visualization, Data Storytelling, Data Structures<br>
-📊 Critical Thinking, Detail Oriented<br>
-📊 Communication Skills<br>
+📊 Data Analysis,Share Data Through the Art of Visualization , Data Storytelling,Working with Data Structures <br>
+📊 Critical Thinking, Detail Oriented,Process Data from Dirty to Clean,Prepare Data for Exploration<br>
+📊 Communication Skills,Ask Questions to Make Data-Driven Decisions<br>
 ## Currently Learning
-📚 Statistics, Machine Learning,<br>
-Deep Learning,Feature Engineering and NLP
+📚 Statistics, Machine Learning,Machine Learning With Python and R<br>
+Deep Learning,Feature Engineering,MogoDb and NLP
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=GeniXira&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=GeniXira&theme=radical&no-frame=false&no-bg=true&margin-w=4)
