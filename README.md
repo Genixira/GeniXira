@@ -21,6 +21,5 @@ Driven data analyst passionate about becoming a data scientist 💡
 📚 Statistics, Machine Learning,<br>
 Deep Learning,Feature Engineering and NLP
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeniXira&show_icons=true&theme=gruvbox)
-
-## Feel free to explore my repositories and let's connect on Github!
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeniXira)](https://github.com/anuraghazra/github-readme-stats)
+Feel free to explore my repositories and let's connect on Github!
