@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi I'm Richie
+Data Analyst & Aspiring Data Scientist 🚀🔍
+About Me
+Driven data analyst passionate about becoming a data scientist 💡
 
-<!--
-**GeniXira/GeniXira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Education & Certifications
+🎉 Google Data Analytics Certification
+🏆 AlexTheAnalyst Bootcamp
+🔓 Freecodecamp: Data Science with Python
+👨‍🎓 Cobasic Python Certification
 
-Here are some ideas to get you started:
+Technical Skills
+🤖 Python, R
+💻 MySQL, PostgreSQL
+📊 Excel, Google Sheets, Power BI, Tableau
+🔍 pandas, numpy, matplotlib, computer vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Soft Skills
+📊 Data Analysis, Data Visualization, SQL, Data Storytelling, Data Structures
+📊 Communication Skills,Understanding Context
+📊 Critical Thinking
+
+Currently Learning
+📚 Statistics, Machine Learning, Deep Learning,Feature Engineering and NLP
+
+
+Feel free to explore my repositories,and let's connect on Github!
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeniXira)](https://github.com/anuraghazra/github-readme-stats)
 -->
