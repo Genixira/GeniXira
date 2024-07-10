@@ -7,6 +7,7 @@ Driven data analyst passionate about becoming a data scientist 💡
 🏆 AlexTheAnalyst Bootcamp<br>
 🔓 Freecodecamp: Data Science with Python<br>
 👨‍🎓 Cobasic Python Certification<br>
+🔓Khris Naik: Machine Learning,Statistics,NLP,Feature Engineering<br>
 ## Technical Skills
 🤖 Python,Web Scrapping, R<br>
 💻 MySQL, PostgreSQL, Aws<br>
