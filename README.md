@@ -1,4 +1,4 @@
-## Hi I'm Richie
+## Hi! I'm Richie
 Data Analyst & Ai Machine Learning Engineer 🚀🔍<br>
 ## About Me<br>
 Driven data analyst passionate about becoming a data scientist 💡
