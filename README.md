@@ -1,4 +1,5 @@
 ## Hi I'm Richie
+
 Data Analyst & Aspiring Data Scientist 🚀🔍
 About Me
 Driven data analyst passionate about becoming a data scientist 💡
@@ -15,15 +16,10 @@ Technical Skills
 📊 Excel, Google Sheets, Power BI, Tableau
 🔍 pandas, numpy, matplotlib, computer vision
 
-Soft Skills
-📊 Data Analysis, Data Visualization, SQL, Data Storytelling, Data Structures
-📊 Communication Skills,Understanding Context
-📊 Critical Thinking
-
 Currently Learning
 📚 Statistics, Machine Learning, Deep Learning,Feature Engineering and NLP
 
 
 Feel free to explore my repositories,and let's connect on Github!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeniXira)](https://github.com/anuraghazra/github-readme-stats)
--->
+
