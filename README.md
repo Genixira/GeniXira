@@ -1,20 +1,21 @@
 ## Hi I'm Richie
 
-Data Analyst & Aspiring Data Scientist 🚀🔍
-About Me
+Data Analyst & Aspiring Data Scientist 🚀🔍<br>
+About Me<br>
 Driven data analyst passionate about becoming a data scientist 💡
 ## Education & Certifications
-🎉 Google Data Analytics Certification
-🏆 AlexTheAnalyst Bootcamp
-🔓 Freecodecamp: Data Science with Python
-👨‍🎓 Cobasic Python Certification
+🎉 Google Data Analytics Certification<br>
+🏆 AlexTheAnalyst Bootcamp<br>
+🔓 Freecodecamp: Data Science with Python<br>
+👨‍🎓 Cobasic Python Certification<br>
 ## Technical Skills
-🤖 Python, R
-💻 MySQL, PostgreSQL
-📊 Excel, Google Sheets, Power BI, Tableau
-🔍 pandas, numpy, matplotlib, computer vision
+🤖 Python, R<br>
+💻 MySQL, PostgreSQL<br>
+📊 Excel, Google Sheets, Power BI, Tableau<br>
+🔍 pandas, numpy, matplotlib, computer vision<br>
 ## Currently Learning
-📚 Statistics, Machine Learning, Deep Learning,Feature Engineering and NLP
+📚 Statistics, Machine Learning,<br>
+Deep Learning,Feature Engineering and NLP
 
 
 Feel free to explore my repositories,and let's connect on Github!
