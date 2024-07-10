@@ -9,10 +9,10 @@ Driven data analyst passionate about becoming a data scientist 💡
 👨‍🎓 Cobasic Python Certification<br>
 🔓Khris Naik: Machine Learning,Statistics,NLP,Feature Engineering<br>
 ## Technical Skills
-🤖 Python,Web Scrapping, R<br>
-💻 MySQL, PostgreSQL, Aws<br>
-📊 Excel, Google Sheets, Power BI, Tableau<br>
-🔍 pandas, numpy, matplotlib, computer vision<br>
+🤖 Python, R ,Web Scrapping,Machine Learning with R & Python<br>
+💻 MySQL(workbench,Dbgate,Posgres), PostgreSQL, Aws,Predictive Modelling<br>
+📊 Excel, Google Sheets, Power BI, Tableau,Jupyter Notbook and Lab, Vscode<br>
+🔍 pandas, numpy, matplotlib, computer vision,Api testing<br>
 ## Soft Skills
 📊 Data Analysis, Data Visualization, Data Storytelling, Data Structures<br>
 📊 Critical Thinking, Detail Oriented<br>
