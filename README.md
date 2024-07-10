@@ -3,20 +3,17 @@
 Data Analyst & Aspiring Data Scientist 🚀🔍
 About Me
 Driven data analyst passionate about becoming a data scientist 💡
-
-Education & Certifications
+## Education & Certifications
 🎉 Google Data Analytics Certification
 🏆 AlexTheAnalyst Bootcamp
 🔓 Freecodecamp: Data Science with Python
 👨‍🎓 Cobasic Python Certification
-
-Technical Skills
+## Technical Skills
 🤖 Python, R
 💻 MySQL, PostgreSQL
 📊 Excel, Google Sheets, Power BI, Tableau
 🔍 pandas, numpy, matplotlib, computer vision
-
-Currently Learning
+## Currently Learning
 📚 Statistics, Machine Learning, Deep Learning,Feature Engineering and NLP
 
 
