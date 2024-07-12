@@ -4,9 +4,9 @@ Data Analyst & Ai Machine Learning Engineer 🚀🔍<br>
 Driven data analyst and passionate about becoming a data scientist 💡
 ## Education & Certifications
 🎉 Courser: Google Data Analytics Professional Certification<br>
-🏆 Youtube: AlexTheAnalyst Bootcamp [Excel,Power Bi, Tableau, Mysql,Python,Web Scrapping,Aws & Panda]<br>
+🏆 Youtube: AlexTheAnalyst Bootcamp [Excel,Power Bi, Tableau, Mysql,Python,Web Scrapping,Aws,Anaconda & Panda]<br>
 🔓 FreeCodeCamp: Data Science with Python [Python Fundamentals,Numpy,Matplolib,Panda,sciki-Learn]<br>
-👨‍🎓 Cobasic: Python Certification [Python,Pandas,Computer Vision,FastApi,Ocr]<br>
+👨‍🎓 Cobasic: Python Certification [Python,Pandas,Ocr with python-pytessarat-OpenCv-Pillow,FastApi]<br>
 🔓Khris Naik: [Machine Learning,Statistics,NLP,Feature Engineering,MogoDb,Deep Learning]<br>
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -36,7 +36,7 @@ Driven data analyst and passionate about becoming a data scientist 💡
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ## Soft Skills
-📊 Data Analysis,Share Data Through the Art of Visualization , Data Storytelling,Working with Data Structures <br>
+📊 Share Data Through the Art of Visualization , Data Storytelling <br>
 📊 Critical Thinking, Detail Oriented,Process Data from Dirty to Clean,Prepare Data for Exploration<br>
 📊 Communication Skills,Ask Questions to Make Data-Driven Decisions<br>
 ## Currently Learning
