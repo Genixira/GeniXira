@@ -1,8 +1,7 @@
 ## Hi! I'm Richie
 Data Analyst & Ai Machine Learning Engineer 🚀🔍<br>
 ## ❄ About Me<br>
-I love working with data,increasing my professional network,evolving and learning. This polyamorous love affair led to me being passionate,
-about becoming a Data Scientist💡 someday!.
+I have a deep passion for exploring and working with data, which fuels my commitment to continuous learning and professional growth. This multifaceted journey has ignited my ambition to becoming a Data Scientist 💡. I believe that mentorship is crucial in this field, and I'm dedicated to building a strong professional network to support my evolution and success!.
 ## Education & Certifications
 🎉 Courser: Google Data Analytics Professional Certification<br>
 🏆 AlexTheAnalyst: Data Analytics Bootcamp [Excel,Power Bi, Tableau, Mysql,Python,Web Scrapping,Aws,Anaconda & Panda]<br>
@@ -49,4 +48,4 @@ Deep Learning,Feature Engineering,MogoDb and NLP
 ![](https://github-profile-trophy.vercel.app/?username=GeniXira&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 Feel free to explore my repositories and let's connect!
-Open for work and Growth
+Open for work and Growth...
