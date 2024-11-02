@@ -5,10 +5,11 @@ Driven data analyst and passionate about becoming a data scientist 💡
 ## Education & Certifications
 🎉 Courser: Google Data Analytics Professional Certification<br>
 🏆 AlexTheAnalyst: Data Analytics Bootcamp [Excel,Power Bi, Tableau, Mysql,Python,Web Scrapping,Aws,Anaconda & Panda]<br>
-🔓 FreeCodeCamp: Data Science with Python [Python Fundamentals,Numpy,Matplolib,Panda,sciki-Learn]<br>
+🔓 FreeCodeCamp: Data Science with Python [Python Fundamentals,Numpy,Matplolib,Panda,scikit-Learn]<br>
 👨‍🎓 Cobasic: Python Certification [Python,Pandas,Ocr with python-pytessarat-OpenCv-Pillow,FastApi]<br>
+👨‍🎓 Cobasic: Machine Learning"Scikit-Learn" Certification [Python,Pandas,Numpy,Inferencial stat,supervised learning,unspervised learning,statitstic,maths,ensemble learning e.t.c]<br>
 🔓Khris Naik: [Machine Learning,Statistics,NLP,Feature Engineering,MogoDb,Deep Learning]<br>
-🔓SimpleLearn: [R Programing, Machine Learning with R,Timeseries,Data Scinence with R]<br>
+
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
