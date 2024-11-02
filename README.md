@@ -36,10 +36,6 @@ I have a deep passion for exploring and working with data, which fuels my commit
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-## Soft Skills
-📊 Share Data Through the Art of Visualization , Data Storytelling <br>
-📊 Critical Thinking, Detail Oriented,Process Data from Dirty to Clean,Prepare Data for Exploration<br>
-📊 Communication Skills,Ask Questions to Make Data-Driven Decisions<br>
 ## Currently Learning
 📚 Machine learning and Working On ProjectsR<br>
 Deep Learning,Feature Engineering,MogoDb and NLP
@@ -47,5 +43,5 @@ Deep Learning,Feature Engineering,MogoDb and NLP
 ![](https://github-readme-stats.vercel.app/api?username=GeniXira&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=GeniXira&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Feel free to explore my repositories and let's connect!
+Feel free to explore my repositories and let's connect!<br>
 Open for work and Growth...
