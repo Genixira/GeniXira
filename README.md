@@ -1,15 +1,15 @@
 ## Hi! I'm Richie
 Data Analyst & Ai Machine Learning Engineer 🚀🔍<br>
 ## ❄ About Me<br>
-Driven data analyst and passionate about becoming a data scientist 💡
+I love working with data,increasing my professional network,evolving and learning. This polyamorous love affair led to me being passionate,
+about becoming a Data Scientist💡 someday!.
 ## Education & Certifications
 🎉 Courser: Google Data Analytics Professional Certification<br>
 🏆 AlexTheAnalyst: Data Analytics Bootcamp [Excel,Power Bi, Tableau, Mysql,Python,Web Scrapping,Aws,Anaconda & Panda]<br>
 🔓 FreeCodeCamp: Data Science with Python [Python Fundamentals,Numpy,Matplolib,Panda,scikit-Learn]<br>
 👨‍🎓 Cobasic: Python Certification [Python,Pandas,Ocr with python-pytessarat-OpenCv-Pillow,FastApi]<br>
-👨‍🎓 Cobasic: Machine Learning"Scikit-Learn" Certification [Python,Pandas,Numpy,Inferencial stat,supervised learning,unspervised learning,statitstic,maths,ensemble learning e.t.c]<br>
+👨‍🎓 Cobasic: Machine Learning"Scikit-Learn" Certification [Python,Pandas,Numpy,Inferencial stat,Feature Engineering,supervised learning,unspervised learning,statitstic,maths,ensemble learning e.t.c]<br>
 🔓Khris Naik: [Machine Learning,Statistics,NLP,Feature Engineering,MogoDb,Deep Learning]<br>
-
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -42,10 +42,11 @@ Driven data analyst and passionate about becoming a data scientist 💡
 📊 Critical Thinking, Detail Oriented,Process Data from Dirty to Clean,Prepare Data for Exploration<br>
 📊 Communication Skills,Ask Questions to Make Data-Driven Decisions<br>
 ## Currently Learning
-📚 Statistics, Machine Learning,Machine Learning With Python and R<br>
+📚 Machine learning and Working On ProjectsR<br>
 Deep Learning,Feature Engineering,MogoDb and NLP
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=GeniXira&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=GeniXira&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 Feel free to explore my repositories and let's connect!
+Open for work and Growth
