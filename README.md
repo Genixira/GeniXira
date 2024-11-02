@@ -8,7 +8,7 @@ I have a deep passion for exploring and working with data, which fuels my commit
 🔓 FreeCodeCamp: Data Science with Python [Python Fundamentals,Numpy,Matplolib,Panda,scikit-Learn]<br>
 👨‍🎓 Cobasic: Python Certification [Python,Pandas,Ocr with python-pytessarat-OpenCv-Pillow,FastApi]<br>
 👨‍🎓 Cobasic: Machine Learning"Scikit-Learn" Certification [Python,Pandas,Numpy,Inferencial Stat,Feature Engineering,Supervised Learning,Unspervised Learning,Statitstic,Maths,Ensemble Learning e.t.c]<br>
-🔓Khris Naik: Machine Learning,Statistics,NLP,Feature Engineering,MogoDb,Deep Learning(https://youtu.be/z8sxaUw_f-M?si=QjVTr9aN1kE99zXs)
+🔓Khris Naik: Machine Learning,Statistics,NLP,Feature Engineering,MogoDb,Deep Learning[https://youtu.be/z8sxaUw_f-M?si=QjVTr9aN1kE99zXs]
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -39,7 +39,7 @@ I have a deep passion for exploring and working with data, which fuels my commit
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ## Currently Learning
 📚 Machine learning and Working On ProjectsR<br>
-Deep Learning,Feature Engineering,MogoDb and NLP[(https://youtu.be/z8sxaUw_f-M?si=QjVTr9aN1kE99zXs)]
+Deep Learning,Feature Engineering,MogoDb and NLP[https://youtu.be/z8sxaUw_f-M?si=QjVTr9aN1kE99zXs]
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=GeniXira&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=GeniXira&theme=radical&no-frame=false&no-bg=true&margin-w=4)
