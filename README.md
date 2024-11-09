@@ -8,7 +8,6 @@ I have a deep passion for exploring and working with data, which fuels my commit
 🔓 FreeCodeCamp: Data Science with Python [Python Fundamentals,Numpy,Matplolib,Panda,scikit-Learn]<br>
 👨‍🎓 Cobasic: Python Certification [Python,Pandas,Ocr with python-pytessarat-OpenCv-Pillow,FastApi]<br>
 👨‍🎓 Cobasic: Machine Learning"Scikit-Learn" Certification [Python,Pandas,Numpy,Inferencial Stat,Feature Engineering,Supervised Learning,Unspervised Learning,Statitstic,Maths,Ensemble Learning e.t.c]<br>
-🔓Khris Naik: Machine Learning,Statistics,NLP,Feature Engineering,MogoDb,Deep Learning  [https://youtu.be/z8sxaUw_f-M?si=QjVTr9aN1kE99zXs]
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
