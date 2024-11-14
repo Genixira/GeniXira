@@ -5,7 +5,7 @@ I have a deep passion for exploring and working with data, which fuels my commit
 ## Education & Certifications
 🎉 Courser: Google Data Analytics Professional Certification<br>
 
-🏆[AlexTheAnalyst](file:///C:/Users/BELINGO/Desktop/My%20Certificates/Alex%20Bootcamp%20crtificate.pdf): Data Analytics Bootcamp [Excel,Power Bi, Tableau, Mysql,Python,Web Scrapping,Aws,Anaconda & Panda]<br>
+🏆![AlexTheAnalyst](file:///C:/Users/BELINGO/Desktop/My%20Certificates/Alex%20Bootcamp%20crtificate.pdf):Data Analytics Bootcamp [Excel,Power Bi, Tableau, Mysql,Python,Web Scrapping,Aws,Anaconda & Panda]<br>
 
 🏆 AlexTheAnalyst: Data Analytics Bootcamp [Excel,Power Bi, Tableau, Mysql,Python,Web Scrapping,Aws,Anaconda & Panda]<br>
 🔓 FreeCodeCamp: Data Science with Python [Python Fundamentals,Numpy,Matplolib,Panda,scikit-Learn]<br>
