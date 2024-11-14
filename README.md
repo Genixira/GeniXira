@@ -3,15 +3,10 @@ Data Analyst | Business Analyst | Junior Data Scientist, Ai Machine Learning Eng
 ## ❄ About Me<br>
 I have a deep passion for exploring and working with data, which fuels my commitment to continuous learning and professional growth. This multifaceted journey has ignited my ambition to become a Data Scientist👨‍🔬 . I believe that mentorship is crucial in this field, and I'm dedicated to building a strong professional network to support my evolution and success!.
 ## Education & Certifications
-🎉 Courser: Google Data Analytics Professional Certification<br>
-
-🏆![AlexTheAnalyst](file:///C:/Users/BELINGO/Desktop/My%20Certificates/Alex%20Bootcamp%20crtificate.pdf):Data Analytics Bootcamp [Excel,Power Bi, Tableau, Mysql,Python,Web Scrapping,Aws,Anaconda & Panda]<br>
-
-🏆 AlexTheAnalyst: Data Analytics Bootcamp [Excel,Power Bi, Tableau, Mysql,Python,Web Scrapping,Aws,Anaconda & Panda]<br>
-🔓 FreeCodeCamp: Data Science with Python [Python Fundamentals,Numpy,Matplolib,Panda,scikit-Learn]<br>
-👨‍🎓 Cobasic: Python Certification [Python,Pandas,Ocr with python-pytessarat-OpenCv-Pillow,FastApi]<br>
-👨‍🎓 Cobasic: Machine Learning"Scikit-Learn" Certification [Python,Pandas,Numpy,Inferencial Stat,Feature Engineering,Supervised Learning,Unspervised Learning,Statitstic,Maths,Ensemble Learning e.t.c]<br>
-
+👨‍🎓![Coursera Certificate](file:///C:/Users/BELINGO/Desktop/My%20Certificates/Google%20Data%20Analytics%20Certificate.pdf):Google Data Analytics Professional Certification<br>
+👨‍🎓![AlexTheAnalyst](file:///C:/Users/BELINGO/Desktop/My%20Certificates/Alex%20Bootcamp%20crtificate.pdf):Data Analytics Bootcamp [Excel,Power Bi, Tableau, Mysql,Python,Web Scrapping,Aws,Anaconda & Panda]<br>
+👨‍🎓![Python Certificate](file:///C:/Users/BELINGO/Desktop/My%20Certificates/My%20Python%20Certificate.pdf): [Python,Pandas,Ocr with python-pytessarat-OpenCv-Pillow,FastApi]<br>
+👨‍🎓![Machine Learning Certificate](file:///C:/Users/BELINGO/Desktop/My%20Certificates/machine%20Learning%20Cert.pdf): [Python,Pandas,Ocr with python-pytessarat-OpenCv-Pillow,FastApi]<br>
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
