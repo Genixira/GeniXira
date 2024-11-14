@@ -1,11 +1,13 @@
 ## Hi! I'm Richie
 Data Analyst | Business Analyst | Data Scientist 🚀🔍<br>
 
-<img 
-    src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif"
-    alt="Coding" 
-    style="float: left; margin-right: 20px; height: 400px; width: 300px;"
->
+<div style="text-align: center; padding-left: 20px; padding-right: 20px;">
+    <img 
+        src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" 
+        alt="Coding" 
+        style="width: 300px; height: 200px;"
+    >
+</div>
 
 ## ❄ About Me<br>
 I have a deep passion for exploring and working with data, which fuels my commitment to continuous learning and professional growth. This multifaceted journey has ignited my ambition to become a Data Scientist👨‍🔬 . I believe that mentorship is crucial in this field, and I'm dedicated to building a strong professional network to support my evolution and success!.
