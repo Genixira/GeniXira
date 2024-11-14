@@ -4,6 +4,8 @@ Data Analyst | Business Analyst | Junior Data Scientist, Ai Machine Learning Eng
 I have a deep passion for exploring and working with data, which fuels my commitment to continuous learning and professional growth. This multifaceted journey has ignited my ambition to become a Data Scientist👨‍🔬 . I believe that mentorship is crucial in this field, and I'm dedicated to building a strong professional network to support my evolution and success!.
 ## Education & Certifications
 🎉 Courser: Google Data Analytics Professional Certification<br>
+![🏆 AlexTheAnalyst:Data Analytics Bootcamp [Excel,Power Bi, Tableau, Mysql,Python,Web Scrapping,Aws,Anaconda & Panda]<br>](file:///C:/Users/BELINGO/Desktop/My%20Certificates/Alex%20Bootcamp%20crtificate.pdf)
+
 🏆 AlexTheAnalyst: Data Analytics Bootcamp [Excel,Power Bi, Tableau, Mysql,Python,Web Scrapping,Aws,Anaconda & Panda]<br>
 🔓 FreeCodeCamp: Data Science with Python [Python Fundamentals,Numpy,Matplolib,Panda,scikit-Learn]<br>
 👨‍🎓 Cobasic: Python Certification [Python,Pandas,Ocr with python-pytessarat-OpenCv-Pillow,FastApi]<br>
