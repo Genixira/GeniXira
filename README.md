@@ -1,11 +1,11 @@
 ## Hi! I'm Richie
 Data Analyst | Business Analyst | Data Scientist 🚀🔍<br>
 
-<div style="text-align: center; padding-left: 20px; padding-right: 20px;">
+<div style="text-align: center; padding-left: 30px; padding-right: 30px;">
     <img 
         src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" 
         alt="Coding" 
-        style="width: 300px; height: 200px;"
+        style="width: 300px; height: 300px;"
     >
 </div>
 
