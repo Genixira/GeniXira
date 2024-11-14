@@ -2,7 +2,7 @@
 Data Analyst | Business Analyst | Data Scientist 🚀🔍<br>
 
 
-<img align="right" alt="Coding" width="100" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
+<img align="left" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 
 
 
