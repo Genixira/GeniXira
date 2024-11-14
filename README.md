@@ -14,7 +14,7 @@ I have a deep passion for exploring and working with data, which fuels my commit
 ## Education & Certifications
 👨‍🎓[Coursera Certificate](https://github.com/GeniXira/My_Certs/blob/main/Google%20Data%20Analytics%20Certificate.pdf) : Google Data Analytics Professional Certification<br>
 👨‍🎓[Data Analyst Bootcamp](https://github.com/GeniXira/My_Certs/blob/main/Alex%20Bootcamp%20crtificate.pdf) : Data Analytics Bootcamp [Excel,Power Bi, Tableau, Mysql,Python,Web Scrapping,Aws,Anaconda]<br>
-👨‍🎓![Python Certificate](file:///C:/Users/BELINGO/Desktop/My%20Certificates/My%20Python%20Certificate.pdf) : [Python,Pandas,Ocr with python-pytessarat-OpenCv-Pillow,FastApi]<br>
+👨‍🎓[Python Certificate](https://github.com/GeniXira/My_Certs/blob/main/My%20Python%20Certificate.pdf) : [Python,Pandas,Ocr with python-pytessarat-OpenCv-Pillow,FastApi]<br>
 👨‍🎓![Machine Learning Certificate](file:///C:/Users/BELINGO/Desktop/My%20Certificates/machine%20Learning%20Cert.pdf) : [Supervised,Unspervised,Streamlit,Hyperparameters,Statistics,Maths,Ensemble Learning,Model Evaluation,MlOps,Python,Feature Engineering e.ct]<br>
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
