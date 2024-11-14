@@ -3,12 +3,6 @@ Data Analyst | Business Analyst | Data Scientist 🚀🔍<br>
 
 <img align="left" alt="Coding" width="300" height="450" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 
-<img align="left" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
-
-
-
-
-
 ## ❄ About Me<br>
 I have a deep passion for exploring and working with data, which fuels my commitment to continuous learning and professional growth. This multifaceted journey has ignited my ambition to become a Data Scientist👨‍🔬 . I believe that mentorship is crucial in this field, and I'm dedicated to building a strong professional network to support my evolution and success!.
 ## Education & Certifications
