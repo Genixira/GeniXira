@@ -1,5 +1,5 @@
 ## Hi! I'm Richie😎
-Data Analyst | Business Analyst | Data Scientist 🚀🔍<br>
+Business Analyst | Data Scientist 🚀🔍<br>
 
 <div style="text-align: center; padding-left: 30px; padding-right: 30px;">
     <img 
